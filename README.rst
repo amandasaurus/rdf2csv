@@ -14,7 +14,7 @@ rdf2csv
 
 Convert RDF files to CSV files
 
-* Free software: BSD license
+* Free software: GNU GPL v3 (or later)
 * Documentation: https://rdf2csv.readthedocs.org.
 
 Features
