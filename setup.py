@@ -34,7 +34,7 @@ setup(
                  'rdf2csv'},
     include_package_data=True,
     install_requires=requirements,
-    license="BSD",
+    license="GPLv3+",
     zip_safe=False,
     keywords='rdf2csv',
     classifiers=[
